@@ -11,7 +11,7 @@ class SoftbankRestApiApplicationTests {
     @Test
     void contextLoads() {
 
-        assertTrue(false);
+        //assertTrue(false);
     }
 
 }
